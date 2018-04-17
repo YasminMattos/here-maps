@@ -1,12 +1,10 @@
 # WayOut
 
-Es una aplicación inspirada en personas que practican deportes al aire libre (ciclismo, running, montañismo, caminatas, etc). Permite monitorear recorridos, guardar rutas y compartirlas en redes sociales, seguir a otros usuarios, y brinda información de los lugares cercanos a tu ubicación.
+Es una aplicación inspirada en personas que practican deportes al aire libre (ciclismo, running, montañismo, caminatas, etc). Brinda información de los lugares cercanos a tu ubicación, permite monitorear recorridos, guardar rutas y compartirlas en redes sociales y seguir a otros usuarios.
 
 ![image](https://user-images.githubusercontent.com/32310691/38592800-bd931dda-3d03-11e8-9166-26028b5892cd.png)
 
-## Desarrollado para 
-
-[Here Maps](https://www.here.com/en)
+## Desarrollado para [Here Maps](https://www.here.com/en)
 
 ### Objetivo
 
